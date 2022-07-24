@@ -9,6 +9,9 @@ public class FruitTest {
 				new Fruit("persimmon", 19000), new Fruit("cherry", 12000) };
 		
 		System.out.println("============= 과일구입 목록 ==========");
+		System.out.println("============= 과일구입 목록 ==========");
+		System.out.println("============= 과일구입 목록 ==========");
+		System.out.println("============= 과일구입 목록 ==========");
 		
 		for (int i = 0; i < f1.length; i++) {
 			f1[i].show2();
